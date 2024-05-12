@@ -17,6 +17,6 @@ public class  MyClass{
         System.out.println("This is Objects and Classes in Java");
         //Invoking methods
         show();
-        System.out.println("Sum of gin=ven numbers is"+add(var1,var2));
+        add(var1,var2);
     }
 }
