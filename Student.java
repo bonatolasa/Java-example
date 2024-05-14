@@ -12,7 +12,7 @@ public static void main(String[] args) {
     Student s1 = new Student();
     Student s2 = new Student();
     s1.insertRecord(979 ,"BONI");
-    s2.insertRecord(1622, "wabi");
+    s2.insertRecord(1622, "waami");
     s1.displayInformation();
     s2.displayInformation();
 }
