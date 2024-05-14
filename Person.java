@@ -21,4 +21,9 @@ public class Person {
     public int getAge() {
         return age;
     }
+    public static void main(String[] args) {
+        Person s=new Person();
+       s.setName("boni");
+       s.setAge(33);
+    }
 }
